@@ -117,5 +117,8 @@ You can visit the complete documentation section at the [Flare Dev Hub](https://
 
 ---
 
+Note: there's an additional branch for testing new UX improvements.
+
 
 ### *New:* DeepWiki - https://deepwiki.com/vmmunoza/Gasless-USDT0-Flow 
+
