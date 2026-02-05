@@ -115,10 +115,11 @@ Once both services are running, head to the React UI, fill in a recipient and am
 
 You can visit the complete documentation section at the [Flare Dev Hub](https://dev.flare.network/network/guides/gasless-usdt0-transfers)
 
+
+Note: there's an additional branch for testing new UX improvements. If you want to contribute, that's a good branch to open a PR.
 ---
 
-Note: there's an additional branch for testing new UX improvements.
+### *NEW:* 
+DeepWiki - https://deepwiki.com/vmmunoza/Gasless-USDT0-Flow 
 
-
-### *New:* DeepWiki - https://deepwiki.com/vmmunoza/Gasless-USDT0-Flow 
 
