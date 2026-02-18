@@ -122,7 +122,8 @@ You can visit the complete documentation section at the [Flare Dev Hub](https://
 ### *NEW:* 
 DeepWiki - https://deepwiki.com/vmmunoza/Gasless-USDT0-Flow 
 
-Note: there's an additional branch for testing new UX improvements. If you want to contribute, that's a good branch to open a PR.
+
 ---
 
 
+Note: There's an additional branch for testing new UX improvements. If you'd like to contribute, it's a good branch to open a PR request.
